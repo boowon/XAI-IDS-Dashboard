@@ -1,0 +1,12 @@
+{
+    "accuracy": 0.5337,
+    "precision": 0.5891,
+    "recall": 0.5337,
+    "f1_score": 0.5201,
+    "shap_fidelity": 1.0,
+    "lime_fidelity": 0.68,
+    "shap_sparsity": 0.976,
+    "lime_sparsity": 0.978,
+    "shap_stability": 0.9348,
+    "lime_stability": 1.0
+}
